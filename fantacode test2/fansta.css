@@ -1,0 +1,14 @@
+body{
+    background-color: lightblue;
+}
+table,th,td{
+    border: black 2px solid;
+    width: 60%;
+    padding: 10px;
+    margin: auto;
+    text-align: center;
+   
+
+    
+    
+}
